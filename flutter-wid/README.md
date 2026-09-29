@@ -1,17 +1,64 @@
-# flutter_elevated
+# ElevatedButton Demo
 
-A new Flutter project.
+A simple Flutter application demonstrating how ElevatedButton
+can be used for real-world user actions.
 
-## Getting Started
+## How to Run
 
-This project is a starting point for a Flutter application.
+1. Install Flutter.
+2. Clone this repository.
+3. Open the project in VS Code.
+4. Run:
 
-A few resources to get you started if this is your first Flutter project:
+flutter pub get
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+5. Start the application with:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter run
+
+## Three ElevatedButton Properties
+
+### 1. backgroundColor
+Changes the background color of the button.
+
+### 2. padding
+Controls the space inside the button and affects its size.
+
+### 3. elevation
+Controls the shadow/depth of the button.
+
+## Screenshot
+
+# ElevatedButton Demo
+
+A simple Flutter application demonstrating how ElevatedButton
+can be used for real-world user actions.
+
+## How to Run
+
+1. Install Flutter.
+2. Clone this repository.
+3. Open the project in VS Code.
+4. Run:
+
+flutter pub get
+
+5. Start the application with:
+
+flutter run
+
+## Three ElevatedButton Properties
+
+### 1. backgroundColor
+Changes the background color of the button.
+
+### 2. padding
+Controls the space inside the button and affects its size.
+
+### 3. elevation
+Controls the shadow/depth of the button.
+
+## Screenshot
+
+![working proof](<Screenshot 2026-09-29 115839.png>)
+![ElevatedButton Demo](https://youtu.be/HVMx8RuC42U)
