@@ -2,11 +2,11 @@
 
 A simple Flutter application demonstrating how ElevatedButton can be used for real-world user actions.
 
- ## ElevatedButton is a Flutter widget used to create a clickable button. The onPressed property tells the button what to do when it is clicked. The child property contains what we want to display inside the button, such as text. The children property is used when we have multiple widgets inside a widget like a Column."
-
+simple explanation 
+ElevatedButton is a Flutter widget used to create clickable buttons. The onPressed property defines what happens when the button is clicked, while the child property defines what appears inside the button.
  the elevated button is  simply  a button that the user can press.
- in this code there are 4 of them main:
- basic ,style , disabled and download buttons.
+ in this code there are 4 of them main:basic ,style , disabled and download buttons.
+ 
 
 
 ## How to Run
